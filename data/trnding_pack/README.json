@@ -1,0 +1,35 @@
+{
+  "title": "ResolveAI — TRNDING MVP RAG Test Pack",
+  "generated": "2026-10-07",
+  "source_note": "Built from publicly accessible TRNDING website pages checked on 2026-10-07. Missing internal policies are intentionally represented as gaps rather than invented.",
+  "import_order": [
+    "organization.json",
+    "departments.json",
+    "ai_settings.json",
+    "knowledge_documents.json",
+    "products.json",
+    "faqs.json",
+    "escalation_rules.json",
+    "support_conversations.json",
+    "evaluation_cases.json"
+  ],
+  "test_flow": [
+    "Create org",
+    "Index knowledge",
+    "Run a high-confidence question",
+    "Run a multi-intent question",
+    "Run refund question and verify knowledge-gap behavior",
+    "Run security question and verify escalation",
+    "Run evaluation set"
+  ],
+  "source_urls": [
+    "https://trnding.in/",
+    "https://trnding.in/products/netflix-premium",
+    "https://trnding.in/products/youtube-premium",
+    "https://trnding.in/products/adobe-creative-cloud",
+    "https://trnding.in/products/gemini-ai-pro",
+    "https://trnding.in/products/zoom-pro",
+    "https://trnding.in/blog/top-10-cheap-subscriptions-india",
+    "https://trnding.in/blog/coursera-plus-price-india-2026"
+  ]
+}

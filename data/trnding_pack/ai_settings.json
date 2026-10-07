@@ -1,0 +1,13 @@
+[
+  {
+    "organization_id": "org_trnding",
+    "department_id": "dept_support",
+    "tone": "professional, concise, empathetic",
+    "require_citations": true,
+    "require_human_approval": true,
+    "answer_only_from_retrieved_evidence": true,
+    "minimum_grounding_confidence": 0.7,
+    "knowledge_gap_threshold": 0.55,
+    "escalate_sensitive_issues": true
+  }
+]

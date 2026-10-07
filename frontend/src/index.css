@@ -1,0 +1,7 @@
+/* Tailwind directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import design system tokens */
+@import './styles/index.css';

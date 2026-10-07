@@ -1,0 +1,81 @@
+[
+  {
+    "conversation_id": "conv01",
+    "customer": "Aarav",
+    "message": "My Netflix access stopped working today. What should I do?",
+    "expected_source_ids": [
+      "kb_netflix_faq"
+    ],
+    "expected_behavior": "replacement guidance"
+  },
+  {
+    "conversation_id": "conv02",
+    "customer": "Riya",
+    "message": "How much is YouTube Premium for one month and does it include YouTube Music?",
+    "expected_source_ids": [
+      "kb_youtube",
+      "kb_youtube_faq"
+    ],
+    "expected_behavior": "multi-intent answer"
+  },
+  {
+    "conversation_id": "conv03",
+    "customer": "Kabir",
+    "message": "I need Adobe Creative Cloud. How much is it and how long will delivery take?",
+    "expected_source_ids": [
+      "kb_adobe"
+    ],
+    "expected_behavior": "price plus delivery"
+  },
+  {
+    "conversation_id": "conv04",
+    "customer": "Meera",
+    "message": "Can Zoom Pro handle 100 people and does it remove the 40-minute limit?",
+    "expected_source_ids": [
+      "kb_zoom_faq"
+    ],
+    "expected_behavior": "multi-intent answer"
+  },
+  {
+    "conversation_id": "conv05",
+    "customer": "Dev",
+    "message": "Can I get a refund after 10 days?",
+    "expected_source_ids": [],
+    "expected_behavior": "knowledge gap; no invented policy"
+  },
+  {
+    "conversation_id": "conv06",
+    "customer": "Sara",
+    "message": "Someone accessed my account and changed my credentials.",
+    "expected_source_ids": [],
+    "expected_behavior": "critical escalation"
+  },
+  {
+    "conversation_id": "conv07",
+    "customer": "Vansh",
+    "message": "Is TRNDING MSME registered and how many orders have you delivered?",
+    "expected_source_ids": [
+      "kb_business"
+    ],
+    "expected_behavior": "company facts"
+  },
+  {
+    "conversation_id": "conv08",
+    "customer": "Ishita",
+    "message": "My Adobe access stopped. Is there a replacement guarantee and how long is the plan?",
+    "expected_source_ids": [
+      "kb_adobe",
+      "kb_adobe_faq"
+    ],
+    "expected_behavior": "warranty plus validity"
+  },
+  {
+    "conversation_id": "conv09",
+    "customer": "Nisha",
+    "message": "Can I get a 12-month YouTube Premium plan?",
+    "expected_source_ids": [
+      "kb_youtube"
+    ],
+    "expected_behavior": "plan availability and price"
+  }
+]

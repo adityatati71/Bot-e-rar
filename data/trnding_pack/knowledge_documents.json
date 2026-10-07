@@ -1,0 +1,287 @@
+[
+  {
+    "document_id": "kb_home",
+    "organization_id": "org_trnding",
+    "department": "Customer Support",
+    "category": "Company",
+    "document_type": "public_web_content",
+    "title": "TRNDING Homepage — Company Overview",
+    "content": "TRNDING's public homepage presents it as a marketplace for premium software and subscription deals in India. The homepage currently displays 50+ products, 15K+ orders delivered, 30-minute average delivery and 24/7 support. It also describes delivery via WhatsApp and a replacement guarantee.",
+    "keywords": [
+      "company",
+      "TRNDING"
+    ],
+    "version": "public-web-2026-10-07",
+    "authority": "Public Website",
+    "status": "active",
+    "source_url": "https://trnding.in/"
+  },
+  {
+    "document_id": "kb_order",
+    "organization_id": "org_trnding",
+    "department": "Customer Support",
+    "category": "Orders",
+    "document_type": "public_web_content",
+    "title": "Public Ordering Flow",
+    "content": "The public site describes ordering through WhatsApp, selecting a product/plan, completing payment using listed methods and receiving access or credentials through WhatsApp. Delivery timing varies by product.",
+    "keywords": [
+      "orders",
+      "TRNDING"
+    ],
+    "version": "public-web-2026-10-07",
+    "authority": "Public Website",
+    "status": "active",
+    "source_url": "https://trnding.in/blog/top-10-cheap-subscriptions-india"
+  },
+  {
+    "document_id": "kb_netflix",
+    "organization_id": "org_trnding",
+    "department": "Customer Support",
+    "category": "Netflix",
+    "document_type": "public_web_content",
+    "title": "Netflix Premium — Product Information",
+    "content": "The public Netflix page lists ₹199 for 1 month, 4K Ultra HD, all Netflix originals/movies/shows, works on TV/phone/laptop, private screen access and a full replacement guarantee. It says most orders are delivered within 30 minutes after payment confirmation and peak-hour delivery may take up to 1 hour. Support is listed via WhatsApp 9 AM–11 PM IST.",
+    "keywords": [
+      "netflix",
+      "TRNDING"
+    ],
+    "version": "public-web-2026-10-07",
+    "authority": "Public Website",
+    "status": "active",
+    "source_url": "https://trnding.in/products/netflix-premium"
+  },
+  {
+    "document_id": "kb_youtube",
+    "organization_id": "org_trnding",
+    "department": "Customer Support",
+    "category": "YouTube Premium",
+    "document_type": "public_web_content",
+    "title": "YouTube Premium — Product Information",
+    "content": "The public YouTube Premium page lists 1 month ₹39, 6 months ₹599 and 12 months ₹1,199. It describes ad-free video, background play, YouTube Music, offline downloads and all-device support. It lists instant delivery and a 1-month warranty/replacement guarantee.",
+    "keywords": [
+      "youtube",
+      "premium",
+      "TRNDING"
+    ],
+    "version": "public-web-2026-10-07",
+    "authority": "Public Website",
+    "status": "active",
+    "source_url": "https://trnding.in/products/youtube-premium"
+  },
+  {
+    "document_id": "kb_adobe",
+    "organization_id": "org_trnding",
+    "department": "Customer Support",
+    "category": "Adobe Creative Cloud",
+    "document_type": "public_web_content",
+    "title": "Adobe Creative Cloud — Product Information",
+    "content": "The public Adobe page lists ₹1,299 for 3 months, 20+ creative apps, Photoshop, Illustrator, Premiere Pro, After Effects and 100GB cloud storage. It says delivery is within 1 hour via WhatsApp with setup instructions and a full replacement guarantee for the validity period.",
+    "keywords": [
+      "adobe",
+      "creative",
+      "cloud",
+      "TRNDING"
+    ],
+    "version": "public-web-2026-10-07",
+    "authority": "Public Website",
+    "status": "active",
+    "source_url": "https://trnding.in/products/adobe-creative-cloud"
+  },
+  {
+    "document_id": "kb_gemini",
+    "organization_id": "org_trnding",
+    "department": "Customer Support",
+    "category": "Gemini AI Pro",
+    "document_type": "public_web_content",
+    "title": "Gemini AI Pro — Product Information",
+    "content": "The public Gemini AI Pro page lists ₹699 for 12 months, 1M token context, multimodal input and Google integration. It lists 30-minute delivery and a 12-month warranty/replacement guarantee.",
+    "keywords": [
+      "gemini",
+      "ai",
+      "pro",
+      "TRNDING"
+    ],
+    "version": "public-web-2026-10-07",
+    "authority": "Public Website",
+    "status": "active",
+    "source_url": "https://trnding.in/products/gemini-ai-pro"
+  },
+  {
+    "document_id": "kb_zoom",
+    "organization_id": "org_trnding",
+    "department": "Customer Support",
+    "category": "Zoom Pro",
+    "document_type": "public_web_content",
+    "title": "Zoom Pro — Product Information",
+    "content": "The public Zoom Pro page lists ₹749 for 1 month, unlimited meeting duration, up to 100 participants, cloud recording, screen sharing and virtual backgrounds. It says credentials are delivered within 30 minutes via WhatsApp after payment.",
+    "keywords": [
+      "zoom",
+      "pro",
+      "TRNDING"
+    ],
+    "version": "public-web-2026-10-07",
+    "authority": "Public Website",
+    "status": "active",
+    "source_url": "https://trnding.in/products/zoom-pro"
+  },
+  {
+    "document_id": "kb_netflix_faq",
+    "organization_id": "org_trnding",
+    "department": "Customer Support",
+    "category": "Netflix",
+    "document_type": "public_web_content",
+    "title": "Netflix Public FAQ",
+    "content": "The public Netflix page says the plan works on Smart TVs, laptops, tablets, smartphones and streaming devices. It states that access problems during the subscription period are covered by the replacement guarantee. It also says the password cannot be changed for this offering.",
+    "keywords": [
+      "netflix",
+      "TRNDING"
+    ],
+    "version": "public-web-2026-10-07",
+    "authority": "Public Website",
+    "status": "active",
+    "source_url": "https://trnding.in/products/netflix-premium"
+  },
+  {
+    "document_id": "kb_youtube_faq",
+    "organization_id": "org_trnding",
+    "department": "Customer Support",
+    "category": "YouTube Premium",
+    "document_type": "public_web_content",
+    "title": "YouTube Public FAQ",
+    "content": "The public YouTube FAQ says YouTube Music Premium, background play and offline downloads are included. It states that the replacement guarantee covers the full plan duration.",
+    "keywords": [
+      "youtube",
+      "premium",
+      "TRNDING"
+    ],
+    "version": "public-web-2026-10-07",
+    "authority": "Public Website",
+    "status": "active",
+    "source_url": "https://trnding.in/products/youtube-premium"
+  },
+  {
+    "document_id": "kb_adobe_faq",
+    "organization_id": "org_trnding",
+    "department": "Customer Support",
+    "category": "Adobe Creative Cloud",
+    "document_type": "public_web_content",
+    "title": "Adobe Public FAQ",
+    "content": "The public Adobe FAQ says the plan includes 20+ apps, 100GB cloud storage, 3 months validity and installation on up to 2 devices simultaneously. It also says updates/new features are included during the subscription.",
+    "keywords": [
+      "adobe",
+      "creative",
+      "cloud",
+      "TRNDING"
+    ],
+    "version": "public-web-2026-10-07",
+    "authority": "Public Website",
+    "status": "active",
+    "source_url": "https://trnding.in/products/adobe-creative-cloud"
+  },
+  {
+    "document_id": "kb_zoom_faq",
+    "organization_id": "org_trnding",
+    "department": "Customer Support",
+    "category": "Zoom Pro",
+    "document_type": "public_web_content",
+    "title": "Zoom Public FAQ",
+    "content": "The public Zoom FAQ says Zoom Pro supports up to 100 participants, includes cloud recording, removes the 40-minute limit and supports screen sharing.",
+    "keywords": [
+      "zoom",
+      "pro",
+      "TRNDING"
+    ],
+    "version": "public-web-2026-10-07",
+    "authority": "Public Website",
+    "status": "active",
+    "source_url": "https://trnding.in/products/zoom-pro"
+  },
+  {
+    "document_id": "kb_business",
+    "organization_id": "org_trnding",
+    "department": "Sales",
+    "category": "Company",
+    "document_type": "public_web_content",
+    "title": "TRNDING Public Business Claims",
+    "content": "The public website displays 15K+ orders delivered, 50+ products available, 24/7 support and 30-minute average delivery. It also displays MSME registration number UDYAM-RJ-26-0168392.",
+    "keywords": [
+      "company",
+      "TRNDING"
+    ],
+    "version": "public-web-2026-10-07",
+    "authority": "Public Website",
+    "status": "active",
+    "source_url": "https://trnding.in/"
+  },
+  {
+    "document_id": "kb_delivery",
+    "organization_id": "org_trnding",
+    "department": "Customer Support",
+    "category": "Delivery",
+    "document_type": "public_web_content",
+    "title": "Delivery Timing — Public Evidence",
+    "content": "Delivery timing is product-specific. Public pages include instant delivery for YouTube, within 30 minutes for Zoom, within 30 minutes with possible peak-hour extension for Netflix, and within 1 hour for Adobe.",
+    "keywords": [
+      "delivery",
+      "TRNDING"
+    ],
+    "version": "public-web-2026-10-07",
+    "authority": "Public Website",
+    "status": "active",
+    "source_url": "https://trnding.in/"
+  },
+  {
+    "document_id": "kb_replacement",
+    "organization_id": "org_trnding",
+    "department": "Customer Support",
+    "category": "Warranty & Replacement",
+    "document_type": "public_web_content",
+    "title": "Replacement Guarantee — Public Evidence",
+    "content": "Multiple public product pages state that subscriptions include a replacement guarantee/warranty, with duration varying by product.",
+    "keywords": [
+      "warranty",
+      "&",
+      "replacement",
+      "TRNDING"
+    ],
+    "version": "public-web-2026-10-07",
+    "authority": "Public Website",
+    "status": "active",
+    "source_url": "https://trnding.in/products/netflix-premium"
+  },
+  {
+    "document_id": "kb_payment",
+    "organization_id": "org_trnding",
+    "department": "Customer Support",
+    "category": "Payments",
+    "document_type": "public_web_content",
+    "title": "Payment Methods — Public Evidence",
+    "content": "Public product pages commonly list UPI and bank transfer, while specific products may list additional methods. The relevant product page should be checked before answering a product-specific payment question.",
+    "keywords": [
+      "payments",
+      "TRNDING"
+    ],
+    "version": "public-web-2026-10-07",
+    "authority": "Public Website",
+    "status": "active",
+    "source_url": "https://trnding.in/products/netflix-premium"
+  },
+  {
+    "document_id": "kb_coursera",
+    "organization_id": "org_trnding",
+    "department": "Customer Support",
+    "category": "Coursera Plus",
+    "document_type": "public_web_content",
+    "title": "Coursera Plus — Public Article",
+    "content": "A TRNDING article published in July 2026 describes Coursera Plus as providing 7,000+ courses, certificates, self-paced learning and hands-on projects. It lists TRNDING's annual price as ₹1,499 and delivery via WhatsApp within 1 hour.",
+    "keywords": [
+      "coursera",
+      "plus",
+      "TRNDING"
+    ],
+    "version": "public-web-2026-10-07",
+    "authority": "Public Website",
+    "status": "active",
+    "source_url": "https://trnding.in/blog/coursera-plus-price-india-2026"
+  }
+]

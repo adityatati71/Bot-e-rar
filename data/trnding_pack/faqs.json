@@ -1,0 +1,178 @@
+[
+  {
+    "faq_id": "faq01",
+    "question": "How much is YouTube Premium for 1 month?",
+    "answer": "₹39.",
+    "source_document_ids": [
+      "kb_youtube"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq02",
+    "question": "Does YouTube Premium include YouTube Music?",
+    "answer": "Yes, the public page says YouTube Music Premium is included.",
+    "source_document_ids": [
+      "kb_youtube_faq"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq03",
+    "question": "How long does Adobe delivery take?",
+    "answer": "Within 1 hour via WhatsApp.",
+    "source_document_ids": [
+      "kb_adobe"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq04",
+    "question": "How long is the Adobe plan valid?",
+    "answer": "3 months.",
+    "source_document_ids": [
+      "kb_adobe_faq"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq05",
+    "question": "How many devices can Adobe be installed on?",
+    "answer": "Up to 2 devices simultaneously.",
+    "source_document_ids": [
+      "kb_adobe_faq"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq06",
+    "question": "How many participants does Zoom Pro support?",
+    "answer": "Up to 100 participants.",
+    "source_document_ids": [
+      "kb_zoom_faq"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq07",
+    "question": "Does Zoom Pro remove the 40-minute limit?",
+    "answer": "Yes.",
+    "source_document_ids": [
+      "kb_zoom_faq"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq08",
+    "question": "How much is Gemini AI Pro?",
+    "answer": "₹699 for 12 months.",
+    "source_document_ids": [
+      "kb_gemini"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq09",
+    "question": "What happens if Netflix access stops working?",
+    "answer": "The public page states that the replacement guarantee covers the subscription period.",
+    "source_document_ids": [
+      "kb_netflix_faq"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq10",
+    "question": "Can Netflix be used on a Smart TV?",
+    "answer": "Yes, the public page lists Smart TVs among supported devices.",
+    "source_document_ids": [
+      "kb_netflix_faq"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq11",
+    "question": "Can I change my Netflix password?",
+    "answer": "The public page says the password cannot be changed for this offering.",
+    "source_document_ids": [
+      "kb_netflix_faq"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq12",
+    "question": "What is the YouTube 12-month price?",
+    "answer": "₹1,199.",
+    "source_document_ids": [
+      "kb_youtube"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq13",
+    "question": "Is TRNDING MSME registered?",
+    "answer": "The public site says yes and displays UDYAM-RJ-26-0168392.",
+    "source_document_ids": [
+      "kb_business"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq14",
+    "question": "How many products are listed?",
+    "answer": "The homepage currently displays 50+ products.",
+    "source_document_ids": [
+      "kb_business"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq15",
+    "question": "Does TRNDING provide replacement guarantees?",
+    "answer": "Multiple product pages state that a replacement guarantee/warranty is provided; duration varies by product.",
+    "source_document_ids": [
+      "kb_replacement"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq16",
+    "question": "What payment methods can I use?",
+    "answer": "It varies by product; public pages commonly list UPI and bank transfer. Check the relevant product page.",
+    "source_document_ids": [
+      "kb_payment"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq17",
+    "question": "How much is Coursera Plus from TRNDING?",
+    "answer": "The July 2026 TRNDING article lists ₹1,499/year.",
+    "source_document_ids": [
+      "kb_coursera"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq18",
+    "question": "How many courses does the Coursera article say are included?",
+    "answer": "7,000+ courses.",
+    "source_document_ids": [
+      "kb_coursera"
+    ],
+    "expected_behavior": "answer_with_citation"
+  },
+  {
+    "faq_id": "faq19",
+    "question": "Can I get a refund after 10 days?",
+    "answer": "UNKNOWN — no authoritative refund window is included in this MVP source set. Flag a knowledge gap; do not invent a policy.",
+    "source_document_ids": [],
+    "expected_behavior": "knowledge_gap_or_escalation"
+  },
+  {
+    "faq_id": "faq20",
+    "question": "Someone accessed my account without permission. What should I do?",
+    "answer": "Escalate to a human specialist; the public source set does not contain an authoritative security SOP.",
+    "source_document_ids": [],
+    "expected_behavior": "knowledge_gap_or_escalation"
+  }
+]

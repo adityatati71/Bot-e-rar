@@ -1,0 +1,13 @@
+[
+  {
+    "organization_id": "org_trnding",
+    "name": "TRNDING",
+    "website": "https://trnding.in/",
+    "industry": "Digital subscriptions and software services",
+    "country": "India",
+    "timezone": "Asia/Kolkata",
+    "default_language": "en-IN",
+    "status": "active",
+    "demo_tenant": true
+  }
+]

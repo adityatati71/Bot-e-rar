@@ -1,0 +1,14 @@
+[
+  {
+    "department_id": "dept_support",
+    "organization_id": "org_trnding",
+    "name": "Customer Support",
+    "status": "active"
+  },
+  {
+    "department_id": "dept_sales",
+    "organization_id": "org_trnding",
+    "name": "Sales",
+    "status": "active"
+  }
+]

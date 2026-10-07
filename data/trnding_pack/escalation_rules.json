@@ -1,0 +1,26 @@
+[
+  {
+    "rule_id": "esc01",
+    "trigger": "security, unauthorized access, stolen credentials",
+    "action": "human_escalation",
+    "priority": "critical"
+  },
+  {
+    "rule_id": "esc02",
+    "trigger": "payment dispute, fraud, unauthorized payment",
+    "action": "human_escalation",
+    "priority": "high"
+  },
+  {
+    "rule_id": "esc03",
+    "trigger": "authoritative evidence missing",
+    "action": "knowledge_gap",
+    "priority": "medium"
+  },
+  {
+    "rule_id": "esc04",
+    "trigger": "unsupported refund/exception request",
+    "action": "do_not_guess_and_escalate",
+    "priority": "high"
+  }
+]

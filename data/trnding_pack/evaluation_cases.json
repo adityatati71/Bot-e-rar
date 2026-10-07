@@ -1,0 +1,160 @@
+[
+  {
+    "evaluation_id": "eval01",
+    "question": "How much is YouTube Premium for 1 month?",
+    "expected_source_ids": [
+      "kb_youtube"
+    ],
+    "expected_behavior": "answer ₹39"
+  },
+  {
+    "evaluation_id": "eval02",
+    "question": "Does YouTube Premium include YouTube Music?",
+    "expected_source_ids": [
+      "kb_youtube_faq"
+    ],
+    "expected_behavior": "answer yes"
+  },
+  {
+    "evaluation_id": "eval03",
+    "question": "How long does Adobe delivery take?",
+    "expected_source_ids": [
+      "kb_adobe"
+    ],
+    "expected_behavior": "answer within 1 hour"
+  },
+  {
+    "evaluation_id": "eval04",
+    "question": "How many devices can Adobe be installed on?",
+    "expected_source_ids": [
+      "kb_adobe_faq"
+    ],
+    "expected_behavior": "answer up to 2"
+  },
+  {
+    "evaluation_id": "eval05",
+    "question": "How many participants does Zoom Pro support?",
+    "expected_source_ids": [
+      "kb_zoom_faq"
+    ],
+    "expected_behavior": "answer up to 100"
+  },
+  {
+    "evaluation_id": "eval06",
+    "question": "Does Zoom Pro remove the 40-minute limit?",
+    "expected_source_ids": [
+      "kb_zoom_faq"
+    ],
+    "expected_behavior": "answer yes"
+  },
+  {
+    "evaluation_id": "eval07",
+    "question": "How much is Gemini AI Pro?",
+    "expected_source_ids": [
+      "kb_gemini"
+    ],
+    "expected_behavior": "answer ₹699"
+  },
+  {
+    "evaluation_id": "eval08",
+    "question": "What is the YouTube 12-month price?",
+    "expected_source_ids": [
+      "kb_youtube"
+    ],
+    "expected_behavior": "answer ₹1199"
+  },
+  {
+    "evaluation_id": "eval09",
+    "question": "What happens if Netflix access stops?",
+    "expected_source_ids": [
+      "kb_netflix_faq"
+    ],
+    "expected_behavior": "replacement guidance"
+  },
+  {
+    "evaluation_id": "eval10",
+    "question": "Can Netflix be used on a Smart TV?",
+    "expected_source_ids": [
+      "kb_netflix_faq"
+    ],
+    "expected_behavior": "answer yes"
+  },
+  {
+    "evaluation_id": "eval11",
+    "question": "Is TRNDING MSME registered?",
+    "expected_source_ids": [
+      "kb_business"
+    ],
+    "expected_behavior": "answer from public site"
+  },
+  {
+    "evaluation_id": "eval12",
+    "question": "How many products are listed?",
+    "expected_source_ids": [
+      "kb_business"
+    ],
+    "expected_behavior": "answer 50+"
+  },
+  {
+    "evaluation_id": "eval13",
+    "question": "Can I get a refund after 10 days?",
+    "expected_source_ids": [],
+    "expected_behavior": "knowledge gap; never invent refund policy"
+  },
+  {
+    "evaluation_id": "eval14",
+    "question": "Someone stole my account credentials.",
+    "expected_source_ids": [],
+    "expected_behavior": "critical human escalation"
+  },
+  {
+    "evaluation_id": "eval15",
+    "question": "I need YouTube Premium and want to know whether Music is included.",
+    "expected_source_ids": [
+      "kb_youtube",
+      "kb_youtube_faq"
+    ],
+    "expected_behavior": "multi-intent with citations"
+  },
+  {
+    "evaluation_id": "eval16",
+    "question": "I bought Adobe yesterday; how long is it valid and when should I receive it?",
+    "expected_source_ids": [
+      "kb_adobe"
+    ],
+    "expected_behavior": "3 months and within 1 hour"
+  },
+  {
+    "evaluation_id": "eval17",
+    "question": "Can I change my Netflix password?",
+    "expected_source_ids": [
+      "kb_netflix_faq"
+    ],
+    "expected_behavior": "answer from public page"
+  },
+  {
+    "evaluation_id": "eval18",
+    "question": "What payment methods are available for Netflix?",
+    "expected_source_ids": [
+      "kb_payment",
+      "kb_netflix_faq"
+    ],
+    "expected_behavior": "product-specific evidence"
+  },
+  {
+    "evaluation_id": "eval19",
+    "question": "How much is Coursera Plus?",
+    "expected_source_ids": [
+      "kb_coursera"
+    ],
+    "expected_behavior": "answer ₹1499/year"
+  },
+  {
+    "evaluation_id": "eval20",
+    "question": "How many courses does Coursera Plus include according to the article?",
+    "expected_source_ids": [
+      "kb_coursera"
+    ],
+    "expected_behavior": "answer 7000+"
+  }
+]

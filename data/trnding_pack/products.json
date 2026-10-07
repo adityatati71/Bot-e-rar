@@ -1,0 +1,81 @@
+[
+  {
+    "product_id": "prod_netflix",
+    "name": "Netflix Premium",
+    "price_inr": 199,
+    "duration": "1 month",
+    "delivery": "30 minutes; up to 1 hour at peak",
+    "source_url": "https://trnding.in/products/netflix-premium"
+  },
+  {
+    "product_id": "prod_youtube",
+    "name": "YouTube Premium",
+    "price_options_inr": {
+      "1_month": 39,
+      "6_months": 599,
+      "12_months": 1199
+    },
+    "delivery": "instant",
+    "source_url": "https://trnding.in/products/youtube-premium"
+  },
+  {
+    "product_id": "prod_adobe",
+    "name": "Adobe Creative Cloud",
+    "price_inr": 1299,
+    "duration": "3 months",
+    "delivery": "within 1 hour",
+    "source_url": "https://trnding.in/products/adobe-creative-cloud"
+  },
+  {
+    "product_id": "prod_gemini",
+    "name": "Gemini AI Pro",
+    "price_inr": 699,
+    "duration": "12 months",
+    "delivery": "within 30 minutes",
+    "source_url": "https://trnding.in/products/gemini-ai-pro"
+  },
+  {
+    "product_id": "prod_zoom",
+    "name": "Zoom Pro",
+    "price_inr": 749,
+    "duration": "1 month",
+    "delivery": "within 30 minutes",
+    "source_url": "https://trnding.in/products/zoom-pro"
+  },
+  {
+    "product_id": "prod_m365",
+    "name": "Microsoft 365",
+    "price_inr": 199,
+    "duration": "1 year",
+    "source_url": "https://trnding.in/"
+  },
+  {
+    "product_id": "prod_spotify",
+    "name": "Spotify Premium",
+    "price_inr": 999,
+    "duration": "12 months",
+    "source_url": "https://trnding.in/"
+  },
+  {
+    "product_id": "prod_prime",
+    "name": "Amazon Prime Full",
+    "price_inr": 999,
+    "duration": "1 year",
+    "source_url": "https://trnding.in/"
+  },
+  {
+    "product_id": "prod_jiohotstar",
+    "name": "Jio Hotstar",
+    "price_inr": 89,
+    "duration": "1 month",
+    "source_url": "https://trnding.in/"
+  },
+  {
+    "product_id": "prod_coursera",
+    "name": "Coursera Plus",
+    "price_inr": 1499,
+    "duration": "1 year",
+    "delivery": "within 1 hour",
+    "source_url": "https://trnding.in/blog/coursera-plus-price-india-2026"
+  }
+]
